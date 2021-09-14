@@ -16,7 +16,7 @@ let data = [
       {
         name: "Room2",
         status: "booked",
-        customer: "Customer3",
+        customer: "Customer2",
         date: ["10/9/21",],
         start: "12.01 am",
         end: "11.59 pm",
@@ -26,7 +26,7 @@ let data = [
       {
         name: "Room3",
         status: "booked",
-        customer: "Customer1",
+        customer: "Customer3",
         date: ["10/9/21"],
         start: "12.01am",
         end: "11.59pm",
@@ -36,7 +36,7 @@ let data = [
       {
         name: "Room4",
         status: "booked",
-        customer: "Customer2",
+        customer: "Customer1",
         date: ["11/9/21", "12/9/21", "13/9/21",],
         start: "12.01 am",
         end: "11.59 pm",
